@@ -1,0 +1,6 @@
+__pycache__
+nohup.out
+.DS_Store
+.vscode
+wbot-venv/
+app.db
