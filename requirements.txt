@@ -2,7 +2,7 @@ alembic==1.4.0
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-Migrate==2.5.2
 Flask-SQLAlchemy==2.4.1
 idna==2.8
